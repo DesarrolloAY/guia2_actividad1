@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     //hacer wrap del container
     return const MaterialApp(
       debugShowCheckedModeBanner: false, //widget constante
-      title: "Libro de las Plantasdsf",
+      title: "Libro de las Plantas",
       home: PlantsBook(),
     );
   }
